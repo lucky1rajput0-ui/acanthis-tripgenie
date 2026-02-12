@@ -129,7 +129,7 @@ export default function ContactPage() {
                     onChange={handleChange}
                     required
                     placeholder="Your name"
-                    className="w-full px-4 py-3 border border-gray-800 bg-white text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'black', backgroundColor: 'white' }}
+                    className="w-full px-4 py-3 border border-gray-800 bg-black text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'white', backgroundColor: 'black' }}
                   />
                 </div>
 
@@ -144,7 +144,7 @@ export default function ContactPage() {
                     onChange={handleChange}
                     required
                     placeholder="your@email.com"
-                    className="w-full px-4 py-3 border border-gray-800 bg-white text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'black', backgroundColor: 'white' }}
+                    className="w-full px-4 py-3 border border-gray-800 bg-black text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'white', backgroundColor: 'black' }}
                   />
                 </div>
 
@@ -159,7 +159,7 @@ export default function ContactPage() {
                     onChange={handleChange}
                     required
                     placeholder="+91 98306 39007"
-                    className="w-full px-4 py-3 border border-gray-800 bg-white text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'black', backgroundColor: 'white' }}
+                    className="w-full px-4 py-3 border border-gray-800 bg-black text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'white', backgroundColor: 'black' }}
                   />
                 </div>
 
@@ -174,7 +174,7 @@ export default function ContactPage() {
                     required
                     placeholder="Tell us about your trip plans..."
                     rows={5}
-                    className="w-full px-4 py-3 border border-gray-800 bg-white text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'black', backgroundColor: 'white' }}
+                    className="w-full px-4 py-3 border border-gray-800 bg-black text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent placeholder-gray-400" style={{ color: 'white', backgroundColor: 'black' }}
                   />
                 </div>
 
